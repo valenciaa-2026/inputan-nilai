@@ -19,5 +19,6 @@ int a;
     else{
         cout<<"nilai d";
     }
+    system("pause");
     return 0;
 }
